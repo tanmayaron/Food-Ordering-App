@@ -1,0 +1,237 @@
+[
+    {
+      "name":"Dominos",
+      "address":"Navi Mumbai",
+      "delivery_charge": 5,
+      "image":"https://images.unsplash.com/photo-1544067963-8a045010edcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9taW5vc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Spaghetti",
+          "price": 100.00,
+          "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1408069256188.jpeg"
+        },
+        {
+          "name": "Spaghettios Pizza",
+          "price": 130.99,
+          "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+        },
+        {
+          "name": "Chocolate Pizza",
+          "price": 400.99,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Cheese Sticks",
+          "price": 500,
+          "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+        },
+        {
+          "name": "CHICKEN FINGER SANDWICH",
+          "price": 400,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "FINGERZ BOXED LUNCH",
+          "price": 300,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "HOUSE ZALAD BOXED",
+          "price": 500.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COBB ZALAD BOXED",
+          "price": 300,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COOKIE AND BROWNIE ",
+          "price": 800,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "BROWNIE PLATTER",
+          "price": 600,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+        }
+      ]
+    },
+    {
+      "name":"Moti Mahal",
+      "address":"The Beacon Hotel, Plot No.6,  Veer Savarkar Block, NEW DELHI",
+      "delivery_charge": 400,
+      "image": "https://images.squarespace-cdn.com/content/v1/5841a9f6b3db2b11ba982060/1480699528208-TG7ETVDR8VSET3S9FCRT/MMD.jpg?format=1500w",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Veg Biryani",
+          "price": 180,
+          "url": "https://www.indianveggiedelight.com/wp-content/uploads/2020/04/veg-biryani-instant-pot-featured.jpg"
+        },
+        {
+          "name": "Cheese Dog",
+          "price": 250,
+          "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg"
+        },
+        {
+          "name": "Chowmein",
+          "price": 500,
+          "url": "https://greenbowl2soul.com/wp-content/uploads/2019/11/vegetable-chow-mein.jpg"
+        },
+        {
+          "name": "Fries",
+          "price": 200,
+          "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+        },
+        {
+          "name": "Milkshake",
+          "price": 349,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 495,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 359,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Fish fry",
+          "price": 549,
+          "url": "https://thumbs.dreamstime.com/b/fish-fry-993103.jpg"
+        },
+        {
+          "name": "Chicken Nuggets",
+          "price": 3.99,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Veg thali",
+          "price": 829,
+          "url": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 699,
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBvypsrehoPrUWWJGIYFkmw8go39ZNYPgqw&usqp=CAU"
+        }
+      ]
+    },
+  {
+    "name":"McDonald's",
+    "address":"6A-6B, Sonia Cinema Complex, Vikas Puri, New Delhi 110018, India",
+    "delivery_charge": 500,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 495,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 359,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 549,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 399,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 829,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 699,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Burger King",
+    "address":"10th Floor, Mittal Commercia Asan Pada Rd, Chimatpada, Marol, Andheri (E) Mumbai ",
+    "delivery_charge": 600,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXzFDV5wqXidACSeDyldpon5EepBxr5E8rg&usqp=CAU",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 400,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 325,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 549,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 399,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 809,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 649,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+]
